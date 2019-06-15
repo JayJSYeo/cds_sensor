@@ -1,4 +1,14 @@
-### Cds-조도센서
+***Cds-조도센서***
+----------
+
+
+### 조도 센서에 대해 알아보기 링크
+  
+[기초 배우기]:https://m.blog.naver.com/PostView.nhn?blogId=dokkosam&logNo=221168232261&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+[기초 배우기]
+
+
+<img src="https://github.com/JayJSYeo/cds_sensor/blob/master/25779848587C70B121.jpg" width="25%">
 
 ```cpp
 void setup() {
